@@ -190,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,8 +204,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3af2176295c1142e",
+  "active": "72c35171af71bf8f",
   "lastOpenFiles": [
+    "Pasted image 20260420142926.png",
     "Pasted image 20260420135402.png",
     "Pasted image 20260420131318.png",
     "Pasted image 20260420124537.png",
@@ -216,7 +217,6 @@
     "Pasted image 20260419212415.png",
     "Pasted image 20260419212348.png",
     "Pasted image 20260419212345.png",
-    "Pasted image 20260419212335.png",
     "[[.md",
     "固体物理/第一章 晶体结构.md",
     "单晶.md",
